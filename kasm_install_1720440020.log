@@ -1,0 +1,857 @@
+
+
+End User License Agreement
+__________________________
+
+
+KASM WORKSPACES END USER LICENSE AGREEMENT 
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU AGREE TO THE TERMS OF 
+THIS END USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE TO THESE TERMS, YOU 
+MUST NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE, AND YOU MUST DELETE THE 
+SOFTWARE AND REQUEST A REFUND OF THE LICENSE FEE. 
+
+1. DEFINITIONS 
+
+1.1.  “Documentation” means that documentation that is generally provided to You by Kasm 
+Technologies with the Software and which may include end user manuals, operation instructions, 
+installation guides, release notes, and on-line help files regarding the use of the Software. 
+
+1.2.  “Kasm Technologies” means Kasm Technologies Inc, a Virginia corporation, located at 1765 
+Greensboro Station Place STE 900, MCLEAN, VA 22102.  
+
+1.3.  “License” means a license granted under Section 2.1 (General License Grant).  
+
+1.4.  “Open-Source Software” or “OSS” means software components embedded in the Software 
+and provided under separate license terms, which can be found in the open_source_licenses.txt file 
+provided within the Software. 
+
+1.5.  “Order” means a purchase order, enterprise license agreement, or other ordering document 
+issued by You to Kasm Technologies or a Kasm Technologies authorized reseller that references and 
+incorporates this EULA and is accepted by Kasm Technologies. No Orders are binding on Kasm 
+Technologies until accepted by Kasm Technologies. 
+
+1.6.  “Software” means the Kasm Technologies computer programs to which You acquire a license 
+under an Order, together with any software code pursuant to a support and/or subscription service 
+contract and that is not subject to a separate license agreement.  
+
+1.7.  “You” means the individual, company or other legal entity using the software. 
+
+2. LICENSE GRANT 
+
+2.1.  General License Grant. Kasm Technologies grants to You a non-exclusive, non-transferable  
+license to use the Software and Documentation for the duration of the license solely for Your 
+business operations, and subject to the provisions of your Order, Documentation and related support 
+agreements. 
+
+2.2. Community Edition Restrictions. The Community Edition of the Kasm Workspaces license is 
+restricted to the following usage and may not be used for revenue-generating business activities. 
+Notwithstanding any other provision in this EULA, the Community Edition License of the Software is 
+provided “AS-IS” without indemnification, support or warranty of any kind, expressed or implied. 
+
+2.2.1.  Evaluation. Temporary usage of the Software to validate business requirements. 
+
+2.2.2.  Personal/Home. For use by an individual/household for personal, non-business activities.  
+
+2.2.3.  Non-Profit. For use by non-profit organizations or researchers.  
+
+2.3.  Software Support and Subscriptions. Except as expressly specified in your software Order, 
+Kasm Technologies does not provide any support or subscription services for the Software under this 
+EULA. You have no rights to any updates, upgrades or extensions or enhancements to the Software 
+developed by Kasm Technologies other than those defined in a separate software license Order. 
+
+2.4.  Software Updates. The Software may be updated with enhancements or improvements to the 
+features/functionality, which may include patches, bug fixes, updates, upgrades and other 
+modifications. Updates may modify or delete certain features and/or functionalities of the Software. 
+You agree that Kasm Technologies has no obligation to (i) provide any Updates, or (ii) continue to 
+provide Software features and/or functionalities. 
+
+2.5.  Third Party Agents. Under the License You may permit Your third-party agents to access, use 
+and/or operate the Software on Your behalf for the sole purpose of delivering services to You, 
+provided that You will be fully responsible for compliance with terms and conditions of this EULA and 
+any breach of this EULA by a third-party agent shall be deemed to be a breach by You.  
+
+2.6.  Open-Source Software. Notwithstanding anything herein to the contrary, Open-Source 
+Software is licensed to You under such OSS’s own applicable license terms. These OSS license 
+terms are consistent with the license granted in this Section. The OSS license terms shall take 
+precedence over this EULA to the extent that this EULA imposes greater restrictions on You than the 
+applicable OSS license terms. To the extent the license for any Open-Source Software requires 
+Kasm Technologies to make available to You the corresponding source code and/or modifications, 
+You may obtain a copy of the applicable Source Files.  
+
+3. RESTRICTIONS OF OWNERSHIP 
+
+3.1.  License Restrictions. Without Kasm Technologies’ prior written consent, You must not, and 
+must not allow any third-party to: (a) use Software in an application services provider except that You 
+may use the Software to deliver hosted services to Your affiliates; (b) make available Software in any 
+form to anyone other than Your employees, except as specified in Section 2.5 (Third Party Agents); 
+(c) transfer or sublicense Software or Documentation to an affiliate or any third party; (d) use 
+Software in conflict with the terms and restrictions of the Software’s licensing model and other 
+requirements specified in Documentation and/or Order; (e) except to the extent permitted by 
+applicable mandatory law, modify, translate, enhance, or create derivative works from the Software, 
+or reverse engineer, decompile, or otherwise attempt to derive source code from the Software; or (f) 
+violate or circumvent any technological restrictions within the Software or specified in this EULA.  
+
+3.2.  Ownership. The Software and Documentation and all improvements, enhancements, 
+modifications and derivative works thereof, and all Intellectual Property Rights therein, are and shall 
+remain the sole and exclusive property of Kasm Technologies. Intellectual property rights, including 
+without limitation, copyrights, trademarks, service marks, trade secrets, know how, inventions, 
+patents, patent applications, moral rights and all other proprietary rights, whether registered or 
+unregistered. Your rights to use the Software and Documentation shall be limited to those expressly 
+granted in this EULA and any applicable Order. No other rights with respect to the Software or any 
+related Intellectual Property Rights are implied. You are not authorized to use (and shall not permit 
+any third party to use) the Software, Documentation or any portion thereof except as expressly 
+authorized by this EULA or the applicable Order. Kasm Technologies reserves all rights not expressly 
+granted to You. 
+
+3.3. Third Party Software. You acknowledge that You are responsible for obtaining and complying 
+with any licenses necessary to integrate, orchestrate or access all third-party software used within the 
+Software.
+
+3.4. Software Feedback. Feedback, bug reports, enhancements or recommendations provided by
+You to Kasm Technologies for the purpose of improving the Software shall become exclusively 
+owned by Kasm Technologies and may be used/redistributed without compensation to the source of 
+the submission. 
+
+4. CONTENT AND USAGE 
+
+4.1.  Software Usage Responsibility. Kasm Technologies is not responsible for the information, 
+content and activities of the Software users. You understand and agree that You are solely 
+responsible for the content and for all activity that occurs under your Software, whether done so by 
+You or any third person. 
+
+4.2.  Content and Usage Disclaimer. Kasm Technologies does not control or restrict content or 
+activities by users and/or third parties within the Software, you agree to use the Software at your own 
+risk. You agree that under no circumstances will Kasm Technologies be liable in any way for any 
+content within the Software, activities performed using the Software, or any loss or damage incurred 
+as a result of your use of the Software. 
+
+5. WARRANTIES 
+
+5.1.  Software Warranty, Duration and Remedy. Kasm Technologies warrants to You that the 
+Software will, for a period of ninety (90) days following notice of availability for electronic download or 
+delivery (“Warranty Period”), substantially conform to the applicable Documentation, provided that 
+the Software: (a) has been properly installed and used at all times in accordance with the applicable 
+Documentation; and (b) has not been modified or added to by persons other than Kasm Technologies 
+or its authorized representative. Kasm Technologies will provide remedy for any breach of this 
+warranty, either replace that Software or correct any reproducible error in that Software reported to 
+Kasm Technologies by You in writing during the Warranty Period. If Kasm Technologies determines 
+that it is unable to correct the error or replace the Software, Kasm Technologies will refund to You the 
+amount paid by You for that Software, in which case the License for that Software will terminate.  
+
+5.2.  Software Disclaimer of Warranty. Other than the warranty above, and to the maximum extent 
+permitted by applicable law, Kasm Technologies and its suppliers make no other express warranties 
+or guarantees under this EULA, and disclaim all implied warranties of merchantability, fitness for a 
+particular purpose, title and non-infringement, and any warranty arising by statute, operation of law, 
+course of dealing or performance, or usage of trade. Kasm technologies and its licensors do not 
+warrant that the software will operate uninterrupted or that it will be free from defects or that it will 
+meet your requirements. 
+
+6. INTELLECTUAL PROPERTY INDEMNIFICATION 
+
+6.1.  Defense and Indemnification. Kasm Technologies shall defend You against any third party 
+claim that the Software infringes any patent, trademark or copyright of such third party, or 
+misappropriates a trade secret (but only to the extent that the misappropriation is not a result of Your 
+actions) and indemnify You from the resulting costs and damages finally awarded against You to 
+such third party by a court of competent jurisdiction or agreed to in settlement. The foregoing 
+obligations are applicable only if You: (i) promptly notify Kasm Technologies in writing of the 
+Infringement Claim; (ii) allow Kasm Technologies sole control over the defense for the claim, any 
+settlement negotiations and any related action challenging the validity of the allegedly infringed 
+patent, trademark, or copyright; and (iii) reasonably cooperate in response to Kasm Technologies 
+requests for assistance. You may not settle or compromise any Infringement Claim without the prior 
+written consent of Kasm Technologies.  
+
+6.2.  Remedies. If the alleged infringing Software become, or in Kasm Technologies’ opinion be likely 
+to become, the subject of an Infringement Claim, Kasm Technologies will, at Kasm Technologies’ 
+option and expense, do one of the following: (a) procure the rights necessary for You to make 
+continued use of the affected Software; (b) replace or modify the affected Software to make it non-
+infringing; or (c) terminate the License to the affected Software and discontinue the related support 
+services, and, upon Your certified deletion of the affected Software, refund: (i) the fees paid by You 
+for the License to the affected Software, less straight-line depreciation over a three (3) year useful life 
+beginning on the date such Software was delivered; and (ii) any pre-paid service fee attributable to 
+related support services to be delivered after the date such service is stopped.  
+
+6.3.  Exclusions. Notwithstanding the foregoing, Kasm Technologies will have no obligation under 
+this Section 8 (Intellectual Property Indemnification) or otherwise with respect to any claim based on: 
+(a) a combination of Software with non-Kasm Technologies products (other than non-Kasm 
+Technologies products that are listed on the Order and used in an unmodified form); (b) use for a 
+purpose or in a manner for which the Software was not designed; (c) use of any older version of the 
+Software when use of a newer Kasm Technologies version would have avoided the infringement; (d) 
+any modification to the Software made without Kasm Technologies’ express written approval; (e) any 
+claim that relates to open source software or freeware technology or any derivatives or other 
+adaptations thereof that is not embedded by Kasm Technologies into Software; or (f) any Software 
+provided on a no charge or evaluation basis. This Section 8 (intellectual property indemnification) 
+states your sole and exclusive remedy and Kasm Technologies’ entire liability for any infringement 
+claims or actions.  
+
+7. LIMITATION OF LIABILITY 
+
+7.1.  Limitation of Liability. To the maximum extent mandated by law, in no event will Kasm 
+Technologies and its licensors be liable for any lost profits or business opportunities, loss of use, loss 
+of revenue, loss of goodwill, business interruption, loss of data, or any indirect, special, incidental, or 
+consequential damages under any theory of liability, whether based in contract, tort, negligence, 
+product liability, or otherwise. Because some jurisdictions do not allow the exclusion or limitation of 
+liability for consequential or incidental damages, the preceding limitation may not apply to you. Kasm 
+Technologies’ and its licensors’ liability under this EULA will not, in any event, regardless of whether 
+the claim is based in contract, tort, strict liability, or otherwise, exceed the greater of the license fees 
+you paid for the software giving rise to the claim or $100. The foregoing limitations shall apply 
+regardless of whether Kasm Technologies or its licensors have been advised of the possibility of such 
+damages and regardless of whether any remedy fails of its essential purpose. You may not bring a 
+claim under this EULA more than twelve (12) months after the cause of action arises. 
+
+7.2.  Indemnification. You agree to indemnify and hold Kasm Technologies and its parents, 
+subsidiaries, affiliates, officers, employees, agents, partners and licensors (if any) harmless from any 
+claim or demand, including reasonable attorneys' fees, due to or arising out of your: (a) use of the 
+Software; (b) violation of this agreement or any law or regulation; or (c) violation of any right of a third 
+party. 
+
+8. TERMINATION.  
+
+8.1.  EULA Term. The term of this EULA begins on the notice of availability for electronic download 
+or delivery of the Software and continues until this EULA is terminated.  
+
+8.2.  Termination for Breach. Kasm Technologies may terminate this EULA effective immediately 
+upon written notice to You if: (a) You fail to pay any portion of the fees under an applicable Order 
+within ten (10) days after receiving written notice from Kasm Technologies that payment is past due; 
+or (b) You breach any other provision of this EULA and fail to cure within thirty (30) days after receipt 
+of Kasm Technologies’ written notice thereof.  
+
+8.3.  Termination for Insolvency. Kasm Technologies may terminate this EULA effective 
+immediately upon written notice to You if You: (a) terminate or suspend your business; (b) become 
+insolvent; or become subject to control of a trustee or similar authority; or (c) become subject to a 
+bankruptcy or insolvency proceeding.  
+
+8.4.  Effect of Termination. Upon Kasm Technologies’ termination of this EULA: (a) all Licensed 
+rights to all Software granted to You under this EULA will immediately cease; and (b) You must cease 
+all use of all Software, and certify destruction of all Software, confidential information, and license 
+keys. 
+
+9. CONFIDENTIAL INFORMATION 
+
+9.1.  “Confidential Information” means information or materials provided by one party (“Discloser”) 
+to the other party (“Recipient”) which are in tangible form and labelled “confidential” or the like, or, 
+information which a reasonable person knew or should have known to be confidential. The following 
+information shall be considered Confidential Information whether or not marked or identified as such: 
+(a) license keys; (b) information regarding Kasm Technologies’ pricing, product roadmaps or strategic 
+marketing plans; and (c) non-public materials relating to the Software.  
+
+9.2.  Protection. Recipient may use Confidential Information of Discloser; (a) to exercise its rights 
+and perform its obligations under this EULA; or (b) in connection with the parties’ ongoing business 
+relationship. Recipient will not use any Confidential Information of Discloser for any purpose not 
+expressly permitted by this EULA and will disclose the Confidential Information of Discloser only to 
+the employees or contractors of Recipient who have a need to know such Confidential Information for 
+purposes of this EULA and who are under a duty of confidentiality no less restrictive than Recipient’s 
+duty hereunder. Recipient will protect Confidential Information from unauthorized use, access, or 
+disclosure in the same manner as Recipient protects its own confidential or proprietary information of 
+a similar nature but with no less than reasonable care.  
+
+9.3. Data Privacy. You agree that Kasm Technologies may process technical and related information 
+about Your use of the Software which may include internet protocol address, hardware identification, 
+operating system, application software, peripheral hardware, and non-personally identifiable Software 
+usage statistics to facilitate the provisioning of updates, support, invoicing or online services. 
+
+10. GENERAL 
+
+10.1.  Transfers & Assignment. Except to the extent transfer may not legally be restricted, You will 
+not assign this EULA, any Order, or any right or obligation herein or delegate any performance 
+without Kasm Technologies’ prior written consent, which consent will not be unreasonably withheld. 
+Kasm Technologies may use sufficiently qualified subcontractors to provide services to You, provided 
+that Kasm Technologies remains responsible to You for the performance of the services.  
+
+10.2.  Waiver. The failure to exercise a right or to require performance of an obligation under this 
+Agreement shall not effect a party's ability to exercise such right or require such performance at any 
+time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.  
+
+10.3.  Severability. If any provision of this Agreement is held to be unenforceable or invalid, such 
+provision will be changed and interpreted to accomplish the objectives of such provision to the 
+greatest extent possible under applicable law and the remaining provisions will continue in full force 
+and effect.  
+
+10.4.  Compliance with Laws; Export Control; Government Regulations. Each party shall comply 
+with all laws applicable to the actions contemplated by this EULA. You acknowledge that the Software 
+is of United States origin, is provided subject to the U.S. Export Administration Regulations, may 
+be subject to the export control laws of the applicable territory, and that diversion contrary to applicable 
+export control laws is prohibited. You represent that (1) you are not, and are not acting on behalf of, 
+(a) any person who is a citizen, national, or resident of, or who is controlled by the government of any 
+country to which the United States has prohibited export transactions; or (b) any person or entity 
+listed on the U.S. Treasury Department list of Specially Designated Nationals and Blocked Persons, 
+or the U.S. Commerce Department Denied Persons List or Entity List; and (2) you will not permit the 
+Software to be used for, any purposes prohibited by law, including, any prohibited development, 
+design, manufacture or production of missiles or nuclear, chemical or biological weapons. The 
+Software and accompanying documentation are deemed to be “commercial computer software” and 
+“commercial computer software documentation”, respectively, pursuant to DFARS Section 227.7202 
+and FAR Section 12.212(b), as applicable. Any use, modification, reproduction, release, performing, 
+displaying or disclosing of the Software and documentation by or for the U.S. Government shall be 
+governed solely by the terms and conditions of this EULA.  
+
+10.5.  Governing Law. This EULA is governed by the laws of the State of Virginia, United States of 
+America (excluding its conflict of law rules), and the federal laws of the United States. The state and 
+federal courts located in Virginia will be the exclusive jurisdiction for disputes. 
+
+10.6.  Order of Precedence. In the event of conflict or inconsistency among this EULA and the 
+Order, the terms of this EULA shall supersede and control over any conflicting or additional terms and 
+conditions of any order, acknowledgement or confirmation or other document issued by You.  
+
+10.7. Entire Agreement. This EULA, including accepted Orders and any amendments, contain the 
+entire agreement of the parties with respect to this EULA and supersede all previous or 
+contemporaneous communications, representations, proposals, commitments, understandings and 
+agreements, whether written or oral, between the parties. 
+
+10.8. Contact Information. Please direct legal notices or other correspondence to: 
+contracts@kasmweb.com 
+Kasm Technologies 
+1765 Greensboro Station Place STE 900 
+McLean, Virginia 22102 
+United States of America 
+
+
+A copy of the End User License Agreement is located at:
+/home/azmin/Desktop/Research/kasm_release/licenses/LICENSE.txt
+
+I have read and accept End User License Agreement (y/n)? Hit:1 https://download.docker.com/linux/ubuntu jammy InRelease
+Get:2 https://packages.microsoft.com/repos/code stable InRelease [3,590 B]
+Get:3 https://packages.microsoft.com/repos/code stable/main arm64 Packages [18.0 kB]
+Hit:4 https://dl.google.com/linux/chrome/deb stable InRelease
+Get:5 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+Get:6 https://packages.microsoft.com/repos/code stable/main armhf Packages [18.1 kB]
+Get:7 https://packages.microsoft.com/repos/code stable/main amd64 Packages [17.4 kB]
+Hit:8 http://us.archive.ubuntu.com/ubuntu jammy InRelease
+Get:9 http://us.archive.ubuntu.com/ubuntu jammy-updates InRelease [128 kB]
+Hit:10 https://ppa.launchpadcontent.net/ansible/ansible/ubuntu jammy InRelease
+Hit:12 https://ppa.launchpadcontent.net/maarten-fonville/android-studio/ubuntu jammy InRelease
+Hit:13 http://us.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:11 https://packagecloud.io/slacktechnologies/slack/debian jessie InRelease
+Get:14 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [1,791 kB]
+Get:15 http://us.archive.ubuntu.com/ubuntu jammy-updates/main i386 Packages [654 kB]
+Get:16 http://us.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [1,100 kB]
+Get:17 http://us.archive.ubuntu.com/ubuntu jammy-updates/universe i386 Packages [715 kB]
+Get:18 http://us.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [255 kB]
+Fetched 4,830 kB in 5s (1,019 kB/s)
+Reading package lists...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 81 32534   81 26412    0     0  14701      0  0:00:02  0:00:01  0:00:01 14697100 32534  100 32534    0     0  18108      0  0:00:01  0:00:01 --:--:-- 18104
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libwpe-1.0-1 libwpebackend-fdo-1.0-1 nvidia-firmware-535-535.154.05
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  cpp-12 dctrl-tools dkms gcc-12 libasan8 libgcc-12-dev libtsan2
+Suggested packages:
+  gcc-12-locales cpp-12-doc debtags menu gcc-12-multilib gcc-12-doc
+  v4l2loopback-utils
+The following NEW packages will be installed:
+  cpp-12 dctrl-tools dkms gcc-12 libasan8 libgcc-12-dev libtsan2
+  v4l2loopback-dkms
+0 upgraded, 8 newly installed, 0 to remove and 7 not upgraded.
+Need to get 40.2 MB/40.3 MB of archives.
+After this operation, 139 MB of additional disk space will be used.
+Get:1 /tmp/ubuntu_22.04-v4l2loopback-dkms.deb v4l2loopback-dkms all 0.12.7-2ubuntu2~22.04.1 [32.5 kB]
+Get:2 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 cpp-12 amd64 12.3.0-1ubuntu1~22.04 [10.8 MB]
+Get:3 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 libasan8 amd64 12.3.0-1ubuntu1~22.04 [2,442 kB]
+Get:4 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 libtsan2 amd64 12.3.0-1ubuntu1~22.04 [2,477 kB]
+Get:5 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgcc-12-dev amd64 12.3.0-1ubuntu1~22.04 [2,618 kB]
+Get:6 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 gcc-12 amd64 12.3.0-1ubuntu1~22.04 [21.7 MB]
+Get:7 http://us.archive.ubuntu.com/ubuntu jammy/main amd64 dctrl-tools amd64 2.24-3build2 [66.9 kB]
+Get:8 http://us.archive.ubuntu.com/ubuntu jammy-updates/main amd64 dkms all 2.8.7-2ubuntu2.2 [70.1 kB]
+Fetched 40.2 MB in 11s (3,745 kB/s)
+Selecting previously unselected package cpp-12.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 249440 files and directories currently installed.)
+Preparing to unpack .../0-cpp-12_12.3.0-1ubuntu1~22.04_amd64.deb ...
+Unpacking cpp-12 (12.3.0-1ubuntu1~22.04) ...
+Selecting previously unselected package libasan8:amd64.
+Preparing to unpack .../1-libasan8_12.3.0-1ubuntu1~22.04_amd64.deb ...
+Unpacking libasan8:amd64 (12.3.0-1ubuntu1~22.04) ...
+Selecting previously unselected package libtsan2:amd64.
+Preparing to unpack .../2-libtsan2_12.3.0-1ubuntu1~22.04_amd64.deb ...
+Unpacking libtsan2:amd64 (12.3.0-1ubuntu1~22.04) ...
+Selecting previously unselected package libgcc-12-dev:amd64.
+Preparing to unpack .../3-libgcc-12-dev_12.3.0-1ubuntu1~22.04_amd64.deb ...
+Unpacking libgcc-12-dev:amd64 (12.3.0-1ubuntu1~22.04) ...
+Selecting previously unselected package gcc-12.
+Preparing to unpack .../4-gcc-12_12.3.0-1ubuntu1~22.04_amd64.deb ...
+Unpacking gcc-12 (12.3.0-1ubuntu1~22.04) ...
+Selecting previously unselected package dctrl-tools.
+Preparing to unpack .../5-dctrl-tools_2.24-3build2_amd64.deb ...
+Unpacking dctrl-tools (2.24-3build2) ...
+Selecting previously unselected package dkms.
+Preparing to unpack .../6-dkms_2.8.7-2ubuntu2.2_all.deb ...
+Unpacking dkms (2.8.7-2ubuntu2.2) ...
+Selecting previously unselected package v4l2loopback-dkms.
+Preparing to unpack .../7-ubuntu_22.04-v4l2loopback-dkms.deb ...
+Unpacking v4l2loopback-dkms (0.12.7-2ubuntu2~22.04.1) ...
+Setting up cpp-12 (12.3.0-1ubuntu1~22.04) ...
+Setting up libasan8:amd64 (12.3.0-1ubuntu1~22.04) ...
+Setting up libtsan2:amd64 (12.3.0-1ubuntu1~22.04) ...
+Setting up dctrl-tools (2.24-3build2) ...
+Setting up libgcc-12-dev:amd64 (12.3.0-1ubuntu1~22.04) ...
+Setting up gcc-12 (12.3.0-1ubuntu1~22.04) ...
+Setting up dkms (2.8.7-2ubuntu2.2) ...
+Setting up v4l2loopback-dkms (0.12.7-2ubuntu2~22.04.1) ...
+Loading new v4l2loopback-0.12.7 DKMS files...
+Building for 6.5.0-41-generic
+Building initial module for 6.5.0-41-generic
+Can't load /var/lib/shim-signed/mok/.rnd into RNG
+40573106BD7F0000:error:12000079:random number generator:RAND_load_file:Cannot open file:../crypto/rand/randfile.c:106:Filename=/var/lib/shim-signed/mok/.rnd
+............+....+...........+......+.+..+.............+..+...+....+.....+....+.....+....+..+....+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*...+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*..+....+...........+.+...+....................+.......+............+...+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+...+...+...........+...+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*..+.+......+.....+...+....+...........+......+....+..+......................+..+...+.+......+......+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*.....+.+.........+......+........+....+..+.+..............+...+.+......+.........+..+.........+.+..+.......+.....+....+..+.......+...+.....+...............+...+.......+.........+.....+....+......+......+...+.........+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----
+Secure Boot not enabled on this system.
+Done.
+
+v4l2loopback.ko:
+Running module version sanity check.
+ - Original module
+ - Installation
+   - Installing to /lib/modules/6.5.0-41-generic/updates/dkms/
+
+depmod....
+Processing triggers for libc-bin (2.35-0ubuntu3.8) ...
+Processing triggers for man-db (2.10.2-1) ...
+Checking if docker and docker compose are installed.
+Docker is installed
+27.0.3 is a supported version of docker.
+Docker compose is installed
+2.27.0-desktop.2 is a supported version of docker compose
+Commands docker and docker compose detected.
+installing rclone docker plugin
+amd64: Pulling from rclone/docker-volume-rclone
+Digest: sha256:5331bcc2279c91a555d73e25294a179efaf77a619444b318700dfea0c3a86e91
+3be8b2529379: Waiting
+3be8b2529379: Pulling fs layer
+3be8b2529379: Download complete
+3be8b2529379: Complete
+Installed plugin rclone/docker-volume-rclone:amd64
+Skipping Dependency Installation.
+Checking if DEFAULT_PROXY_LISTENING_PORT (443) is free
+Port (443) is not in use.
+Swap Exists
+Installing All Services
+Creating docker network kasm_default_network
+7d42ec82472fef5a816a99cd39217e379f63cb1248b60744d2a0f5d8f8239911
+Initializing Database
+Setting Seed file as /opt/kasm/1.15.0/conf/database/seed_data/default_properties.yaml
+Using Database Master User postgres
+Using Database Master Password from stdin -G
+time="2024-07-08T18:01:11+06:00" level=warning msg="/opt/kasm/1.15.0/docker/docker-compose.yaml: `version` is obsolete"
+kasm_db_1.15.0
+time="2024-07-08T18:01:11+06:00" level=warning msg="/opt/kasm/1.15.0/docker/docker-compose.yaml: `version` is obsolete"
+ db Pulling 
+ ec99f8b99825 Pulling fs layer 
+ b7cf1fa25873 Pulling fs layer 
+ 62293ad135d1 Pulling fs layer 
+ 5f2916f34112 Pulling fs layer 
+ af3edfbfb65d Pulling fs layer 
+ 76b5cc901853 Pulling fs layer 
+ 3e202b2cde93 Pulling fs layer 
+ a005b17c4fda Pulling fs layer 
+ 28e2fd07115a Pulling fs layer 
+ 58c563a0c8a8 Pulling fs layer 
+ ad1f2e67d3c2 Pulling fs layer 
+ 3e202b2cde93 Waiting 
+ a005b17c4fda Waiting 
+ 28e2fd07115a Waiting 
+ 58c563a0c8a8 Waiting 
+ ad1f2e67d3c2 Waiting 
+ 5f2916f34112 Waiting 
+ af3edfbfb65d Waiting 
+ 76b5cc901853 Waiting 
+ ec99f8b99825 Downloading [>                                                  ]  37.49kB/3.624MB
+ b7cf1fa25873 Downloading [====================================>              ]     723B/983B
+ b7cf1fa25873 Downloading [==================================================>]     983B/983B
+ b7cf1fa25873 Download complete 
+ 62293ad135d1 Downloading [>                                                  ]  11.67kB/1.12MB
+ ec99f8b99825 Downloading [==============================>                    ]  2.218MB/3.624MB
+ 62293ad135d1 Downloading [========================>                          ]  538.9kB/1.12MB
+ ec99f8b99825 Verifying Checksum 
+ ec99f8b99825 Download complete 
+ ec99f8b99825 Extracting [>                                                  ]  65.54kB/3.624MB
+ 62293ad135d1 Verifying Checksum 
+ 62293ad135d1 Download complete 
+ ec99f8b99825 Extracting [==================================================>]  3.624MB/3.624MB
+ ec99f8b99825 Pull complete 
+ b7cf1fa25873 Extracting [==================================================>]     983B/983B
+ b7cf1fa25873 Extracting [==================================================>]     983B/983B
+ b7cf1fa25873 Pull complete 
+ 62293ad135d1 Extracting [=>                                                 ]  32.77kB/1.12MB
+ 62293ad135d1 Extracting [==================================================>]   1.12MB/1.12MB
+ 62293ad135d1 Pull complete 
+ 5f2916f34112 Downloading [==================================================>]     173B/173B
+ 5f2916f34112 Verifying Checksum 
+ 5f2916f34112 Download complete 
+ 5f2916f34112 Extracting [==================================================>]     173B/173B
+ 5f2916f34112 Extracting [==================================================>]     173B/173B
+ 5f2916f34112 Pull complete 
+ 76b5cc901853 Downloading [>                                                  ]  527.6kB/88.38MB
+ af3edfbfb65d Downloading [==================================================>]     116B/116B
+ af3edfbfb65d Verifying Checksum 
+ af3edfbfb65d Download complete 
+ af3edfbfb65d Extracting [==================================================>]     116B/116B
+ af3edfbfb65d Extracting [==================================================>]     116B/116B
+ af3edfbfb65d Pull complete 
+ 76b5cc901853 Downloading [==>                                                ]   3.75MB/88.38MB
+ 76b5cc901853 Downloading [====>                                              ]  7.478MB/88.38MB
+ 76b5cc901853 Downloading [======>                                            ]  11.24MB/88.38MB
+ 76b5cc901853 Downloading [========>                                          ]  14.99MB/88.38MB
+ 76b5cc901853 Downloading [==========>                                        ]  17.68MB/88.38MB
+ 76b5cc901853 Downloading [============>                                      ]  21.43MB/88.38MB
+ 76b5cc901853 Downloading [=============>                                     ]  24.66MB/88.38MB
+ 76b5cc901853 Downloading [================>                                  ]  28.41MB/88.38MB
+ 3e202b2cde93 Downloading [====>                                              ]     722B/8.686kB
+ 3e202b2cde93 Downloading [==================================================>]  8.686kB/8.686kB
+ 3e202b2cde93 Verifying Checksum 
+ 3e202b2cde93 Download complete 
+ a005b17c4fda Downloading [==================================================>]     129B/129B
+ a005b17c4fda Verifying Checksum 
+ a005b17c4fda Download complete 
+ 76b5cc901853 Downloading [=================>                                 ]  31.62MB/88.38MB
+ 76b5cc901853 Downloading [====================>                              ]  35.36MB/88.38MB
+ 76b5cc901853 Downloading [=====================>                             ]  38.04MB/88.38MB
+ 76b5cc901853 Downloading [======================>                            ]  40.18MB/88.38MB
+ 76b5cc901853 Downloading [=======================>                           ]  41.77MB/88.38MB
+ 76b5cc901853 Downloading [========================>                          ]  43.91MB/88.38MB
+ 76b5cc901853 Downloading [==========================>                        ]  47.14MB/88.38MB
+ 76b5cc901853 Downloading [============================>                      ]  49.83MB/88.38MB
+ 28e2fd07115a Downloading [==================================================>]     169B/169B
+ 28e2fd07115a Downloading [==================================================>]     169B/169B
+ 28e2fd07115a Download complete 
+ 76b5cc901853 Downloading [=============================>                     ]  51.44MB/88.38MB
+ 58c563a0c8a8 Downloading [======>                                            ]     722B/5.424kB
+ 58c563a0c8a8 Downloading [==================================================>]  5.424kB/5.424kB
+ 58c563a0c8a8 Verifying Checksum 
+ 76b5cc901853 Downloading [==============================>                    ]  54.14MB/88.38MB
+ 76b5cc901853 Downloading [===============================>                   ]  56.27MB/88.38MB
+ 76b5cc901853 Downloading [=================================>                 ]   58.4MB/88.38MB
+ 76b5cc901853 Downloading [==================================>                ]  61.11MB/88.38MB
+ 76b5cc901853 Downloading [====================================>              ]  64.32MB/88.38MB
+ 76b5cc901853 Downloading [=====================================>             ]  66.45MB/88.38MB
+ 76b5cc901853 Downloading [=======================================>           ]  69.12MB/88.38MB
+ ad1f2e67d3c2 Downloading [==================================================>]     183B/183B
+ ad1f2e67d3c2 Download complete 
+ 76b5cc901853 Downloading [========================================>          ]  71.79MB/88.38MB
+ 76b5cc901853 Downloading [==========================================>        ]  75.01MB/88.38MB
+ 76b5cc901853 Downloading [============================================>      ]  78.23MB/88.38MB
+ 76b5cc901853 Downloading [=============================================>     ]  80.92MB/88.38MB
+ 76b5cc901853 Downloading [===============================================>   ]  84.68MB/88.38MB
+ 76b5cc901853 Downloading [=================================================> ]  87.91MB/88.38MB
+ 76b5cc901853 Verifying Checksum 
+ 76b5cc901853 Download complete 
+ 76b5cc901853 Extracting [>                                                  ]  557.1kB/88.38MB
+ 76b5cc901853 Extracting [======>                                            ]  12.26MB/88.38MB
+ 76b5cc901853 Extracting [=============>                                     ]  24.51MB/88.38MB
+ 76b5cc901853 Extracting [=====================>                             ]  37.32MB/88.38MB
+ 76b5cc901853 Extracting [==========================>                        ]  47.35MB/88.38MB
+ 76b5cc901853 Extracting [=================================>                 ]  59.05MB/88.38MB
+ 76b5cc901853 Extracting [======================================>            ]  67.96MB/88.38MB
+ 76b5cc901853 Extracting [=============================================>     ]  80.22MB/88.38MB
+ 76b5cc901853 Extracting [==================================================>]  88.38MB/88.38MB
+ 76b5cc901853 Pull complete 
+ 3e202b2cde93 Extracting [==================================================>]  8.686kB/8.686kB
+ 3e202b2cde93 Extracting [==================================================>]  8.686kB/8.686kB
+ 3e202b2cde93 Pull complete 
+ a005b17c4fda Extracting [==================================================>]     129B/129B
+ a005b17c4fda Extracting [==================================================>]     129B/129B
+ a005b17c4fda Pull complete 
+ 28e2fd07115a Extracting [==================================================>]     169B/169B
+ 28e2fd07115a Extracting [==================================================>]     169B/169B
+ 28e2fd07115a Pull complete 
+ 58c563a0c8a8 Extracting [==================================================>]  5.424kB/5.424kB
+ 58c563a0c8a8 Extracting [==================================================>]  5.424kB/5.424kB
+ 58c563a0c8a8 Pull complete 
+ ad1f2e67d3c2 Extracting [==================================================>]     183B/183B
+ ad1f2e67d3c2 Extracting [==================================================>]     183B/183B
+ ad1f2e67d3c2 Pull complete 
+ db Pulled 
+ Container kasm_db  Creating
+ Container kasm_db  Created
+ Container kasm_db  Starting
+ Container kasm_db  Started
+ Container kasm_db  Waiting
+ Container kasm_db  Healthy
+time="2024-07-08T18:01:53+06:00" level=warning msg="/opt/kasm/1.15.0/docker/.conf/docker-compose-api.yaml: `version` is obsolete"
+ kasm_api Pulling 
+ 8ee087424735 Pulling fs layer 
+ b2df39846776 Pulling fs layer 
+ 6274450fdd1f Pulling fs layer 
+ ceb440cad2ba Pulling fs layer 
+ 71fbfc259af1 Pulling fs layer 
+ 65d6123f9b15 Pulling fs layer 
+ 9c31e0ab5002 Pulling fs layer 
+ 4ed3079644a9 Pulling fs layer 
+ ceb440cad2ba Waiting 
+ 71fbfc259af1 Waiting 
+ 65d6123f9b15 Waiting 
+ 9c31e0ab5002 Waiting 
+ 4ed3079644a9 Waiting 
+ 6274450fdd1f Downloading [=>                                                 ]   2.09kB/75.95kB
+ 6274450fdd1f Downloading [==================================================>]  75.95kB/75.95kB
+ 6274450fdd1f Verifying Checksum 
+ 6274450fdd1f Download complete 
+ 8ee087424735 Downloading [>                                                  ]  281.9kB/27.51MB
+ b2df39846776 Downloading [>                                                  ]  538.9kB/97.06MB
+ 8ee087424735 Downloading [====>                                              ]  2.546MB/27.51MB
+ b2df39846776 Downloading [=>                                                 ]  2.157MB/97.06MB
+ 8ee087424735 Downloading [========>                                          ]  4.528MB/27.51MB
+ b2df39846776 Downloading [=>                                                 ]  3.758MB/97.06MB
+ 8ee087424735 Downloading [============>                                      ]  6.806MB/27.51MB
+ b2df39846776 Downloading [==>                                                ]   5.36MB/97.06MB
+ 8ee087424735 Downloading [================>                                  ]  9.067MB/27.51MB
+ 8ee087424735 Downloading [====================>                              ]  11.31MB/27.51MB
+ b2df39846776 Downloading [===>                                               ]  6.425MB/97.06MB
+ 8ee087424735 Downloading [=======================>                           ]  12.74MB/27.51MB
+ 8ee087424735 Downloading [==========================>                        ]  14.44MB/27.51MB
+ b2df39846776 Downloading [====>                                              ]  8.559MB/97.06MB
+ b2df39846776 Downloading [=====>                                             ]  10.16MB/97.06MB
+ 8ee087424735 Downloading [==============================>                    ]  16.71MB/27.51MB
+ b2df39846776 Downloading [======>                                            ]  12.85MB/97.06MB
+ 8ee087424735 Downloading [================================>                  ]  18.12MB/27.51MB
+ b2df39846776 Downloading [========>                                          ]  15.55MB/97.06MB
+ 8ee087424735 Downloading [====================================>              ]  19.82MB/27.51MB
+ 8ee087424735 Downloading [======================================>            ]  20.94MB/27.51MB
+ b2df39846776 Downloading [=========>                                         ]  18.75MB/97.06MB
+ 8ee087424735 Downloading [==========================================>        ]  23.46MB/27.51MB
+ b2df39846776 Downloading [==========>                                        ]  20.36MB/97.06MB
+ 8ee087424735 Downloading [=============================================>     ]  25.15MB/27.51MB
+ b2df39846776 Downloading [===========>                                       ]  23.02MB/97.06MB
+ 8ee087424735 Downloading [=================================================> ]  27.15MB/27.51MB
+ 8ee087424735 Verifying Checksum 
+ 8ee087424735 Download complete 
+ 8ee087424735 Extracting [>                                                  ]  294.9kB/27.51MB
+ b2df39846776 Downloading [============>                                      ]  24.62MB/97.06MB
+ 8ee087424735 Extracting [===================>                               ]  10.62MB/27.51MB
+ b2df39846776 Downloading [==============>                                    ]  27.32MB/97.06MB
+ 8ee087424735 Extracting [=========================================>         ]  22.71MB/27.51MB
+ b2df39846776 Downloading [================>                                  ]  31.06MB/97.06MB
+ 8ee087424735 Extracting [=================================================> ]  27.43MB/27.51MB
+ 8ee087424735 Extracting [==================================================>]  27.51MB/27.51MB
+ 8ee087424735 Pull complete 
+ ceb440cad2ba Downloading [==================================================>]     608B/608B
+ ceb440cad2ba Download complete 
+ b2df39846776 Downloading [=================>                                 ]  33.21MB/97.06MB
+ b2df39846776 Downloading [==================>                                ]  35.37MB/97.06MB
+ b2df39846776 Downloading [==================>                                ]  36.45MB/97.06MB
+ b2df39846776 Downloading [====================>                              ]  39.15MB/97.06MB
+ b2df39846776 Downloading [=====================>                             ]  42.37MB/97.06MB
+ b2df39846776 Downloading [=======================>                           ]  45.57MB/97.06MB
+ b2df39846776 Downloading [=========================>                         ]   48.8MB/97.06MB
+ 65d6123f9b15 Downloading [==================================================>]     131B/131B
+ 65d6123f9b15 Verifying Checksum 
+ 65d6123f9b15 Download complete 
+ b2df39846776 Downloading [==========================>                        ]  52.01MB/97.06MB
+ b2df39846776 Downloading [============================>                      ]  55.24MB/97.06MB
+ b2df39846776 Downloading [==============================>                    ]  58.96MB/97.06MB
+ b2df39846776 Downloading [================================>                  ]  63.26MB/97.06MB
+ b2df39846776 Downloading [==================================>                ]  67.56MB/97.06MB
+ b2df39846776 Downloading [=====================================>             ]  72.37MB/97.06MB
+ b2df39846776 Downloading [======================================>            ]  75.02MB/97.06MB
+ b2df39846776 Downloading [========================================>          ]   79.3MB/97.06MB
+ b2df39846776 Downloading [==========================================>        ]  83.07MB/97.06MB
+ b2df39846776 Downloading [============================================>      ]  86.81MB/97.06MB
+ 9c31e0ab5002 Downloading [>                                                  ]  407.8kB/40.63MB
+ b2df39846776 Downloading [==============================================>    ]  90.54MB/97.06MB
+ 9c31e0ab5002 Downloading [==>                                                ]  1.665MB/40.63MB
+ b2df39846776 Downloading [================================================>  ]  93.23MB/97.06MB
+ 9c31e0ab5002 Downloading [====>                                              ]  3.308MB/40.63MB
+ b2df39846776 Downloading [=================================================> ]  96.44MB/97.06MB
+ 9c31e0ab5002 Downloading [======>                                            ]  4.959MB/40.63MB
+ b2df39846776 Download complete 
+ 9c31e0ab5002 Downloading [========>                                          ]  7.027MB/40.63MB
+ b2df39846776 Extracting [>                                                  ]  557.1kB/97.06MB
+ 9c31e0ab5002 Downloading [===========>                                       ]  9.509MB/40.63MB
+ b2df39846776 Extracting [===>                                               ]  7.242MB/97.06MB
+ 9c31e0ab5002 Downloading [===============>                                   ]  12.82MB/40.63MB
+ b2df39846776 Extracting [======>                                            ]  12.26MB/97.06MB
+ 9c31e0ab5002 Downloading [===================>                               ]  15.73MB/40.63MB
+ b2df39846776 Extracting [==========>                                        ]  20.05MB/97.06MB
+ 9c31e0ab5002 Downloading [======================>                            ]  18.63MB/40.63MB
+ b2df39846776 Extracting [==============>                                    ]   27.3MB/97.06MB
+ 71fbfc259af1 Downloading [===================>                               ]     722B/1.819kB
+ 71fbfc259af1 Downloading [==================================================>]  1.819kB/1.819kB
+ 71fbfc259af1 Verifying Checksum 
+ 71fbfc259af1 Download complete 
+ 9c31e0ab5002 Downloading [===========================>                       ]  22.35MB/40.63MB
+ b2df39846776 Extracting [=================================>                 ]  64.06MB/97.06MB
+ 9c31e0ab5002 Downloading [================================>                  ]  26.07MB/40.63MB
+ b2df39846776 Extracting [=======================================>           ]  77.43MB/97.06MB
+ 9c31e0ab5002 Downloading [=====================================>             ]  30.22MB/40.63MB
+ b2df39846776 Extracting [==============================================>    ]  89.69MB/97.06MB
+ 9c31e0ab5002 Downloading [=========================================>         ]  33.53MB/40.63MB
+ b2df39846776 Extracting [=================================================> ]  96.93MB/97.06MB
+ b2df39846776 Extracting [==================================================>]  97.06MB/97.06MB
+ b2df39846776 Pull complete 
+ 6274450fdd1f Extracting [=====================>                             ]  32.77kB/75.95kB
+ 6274450fdd1f Extracting [==================================================>]  75.95kB/75.95kB
+ 6274450fdd1f Extracting [==================================================>]  75.95kB/75.95kB
+ 4ed3079644a9 Downloading [==================================================>]     607B/607B
+ 4ed3079644a9 Verifying Checksum 
+ 4ed3079644a9 Download complete 
+ 6274450fdd1f Pull complete 
+ ceb440cad2ba Extracting [==================================================>]     608B/608B
+ ceb440cad2ba Extracting [==================================================>]     608B/608B
+ 9c31e0ab5002 Downloading [============================================>      ]  36.03MB/40.63MB
+ ceb440cad2ba Pull complete 
+ 71fbfc259af1 Extracting [==================================================>]  1.819kB/1.819kB
+ 71fbfc259af1 Extracting [==================================================>]  1.819kB/1.819kB
+ 71fbfc259af1 Pull complete 
+ 65d6123f9b15 Extracting [==================================================>]     131B/131B
+ 65d6123f9b15 Extracting [==================================================>]     131B/131B
+ 65d6123f9b15 Pull complete 
+ 9c31e0ab5002 Downloading [=================================================> ]   40.2MB/40.63MB
+ 9c31e0ab5002 Verifying Checksum 
+ 9c31e0ab5002 Download complete 
+ 9c31e0ab5002 Extracting [>                                                  ]    426kB/40.63MB
+ 9c31e0ab5002 Extracting [==============>                                    ]   11.5MB/40.63MB
+ 9c31e0ab5002 Extracting [=================================>                 ]  26.84MB/40.63MB
+ 9c31e0ab5002 Extracting [==================================================>]  40.63MB/40.63MB
+ 9c31e0ab5002 Pull complete 
+ 4ed3079644a9 Extracting [==================================================>]     607B/607B
+ 4ed3079644a9 Extracting [==================================================>]     607B/607B
+ 4ed3079644a9 Pull complete 
+ kasm_api Pulled 
+2024-07-08 12:02:07,147 [INFO] root: Performing Database Connectivity Test
+2024-07-08 12:02:07,156 [INFO] root: Initializing Postgres Database
+2024-07-08 12:02:07,882 [INFO] root: Stamping Database with revision
+Dropping Existing Schema
+Creating Schema
+Creating Installation ID
+Replacing: (${uuid:group_setting_id:10}) with (3a7cfbcd-9e15-49d3-8005-a5cbb0f324be)
+Replacing: (${uuid:group_setting_id:7}) with (be8d7979-ec9a-42ad-8d7d-c60e0169a8bc)
+Replacing: (${uuid:group_setting_id:51}) with (4d8f4f54-b379-404b-a9be-fa641074688d)
+Replacing: (${uuid:group_setting_id:2002}) with (337bf1af-5942-4310-8cb4-d87cbe0c124e)
+Replacing: (${uuid:group_setting_id:22}) with (4f02e369-bc51-4864-8d24-b2d7b4c04e7d)
+Replacing: (${uuid:group_setting_id:36}) with (8d211311-04a2-43ed-9659-7b566469f7b9)
+Replacing: (${uuid:group_permission_id:0001}) with (6d21a66e-fad9-4159-985e-798f1014ed0b)
+Replacing: (${uuid:group_setting_id:20}) with (308be887-8030-479a-ad47-9c686ac57f01)
+Replacing: (${uuid:group_setting_id:50}) with (6d711e0c-279b-40f1-90f3-04e65c950ffb)
+Replacing: (${uuid:group_setting_id:39}) with (2e9edede-55b7-4c0f-9dde-248679e37e65)
+Replacing: (${uuid:group_setting_id:53}) with (c40ec33f-0223-4628-836f-5289a649e75b)
+Replacing: (${uuid:group_setting_id:24}) with (882164b3-d6b0-4252-bd2f-1ad8d8f54090)
+Replacing: (${uuid:group_permission_id:0002}) with (f233b8c4-ec9c-4985-86b6-bb52bb56f9b2)
+Replacing: (${uuid:user_id:1}) with (2ae3906f-ff93-406b-a6d9-8b1beff44fb5)
+Replacing: (${uuid:group_setting_id:42}) with (ded9ee5a-d00a-4314-a89a-61f5daa3dad1)
+Replacing: (${uuid:group_setting_id:1021}) with (1e4042e9-3416-4778-b0f1-1ffd277fe772)
+Replacing: (${uuid:group_setting_id:1022}) with (093993fc-780d-418e-9213-b95bddc9c242)
+Replacing: (${uuid:group_setting_id:2003}) with (2758e548-2484-449d-89a3-4634a40ea81b)
+Replacing: (${uuid:group_setting_id:11}) with (afaf50f4-15b2-44d4-926f-ca5a2d2d6255)
+Replacing: (${uuid:group_setting_id:14}) with (1e733b28-6e90-44cb-b183-8e461ccb2f77)
+Replacing: (${uuid:group_setting_id:45}) with (16ca5ae2-3c55-4c91-8508-3c8fb07d2716)
+Replacing: (${uuid:group_setting_id:64}) with (5bf71559-f45c-4d0e-bf3d-4be7e5f0309e)
+Replacing: (${uuid:group_setting_id:1013}) with (f32a08c0-ee1c-4022-ba3b-8336f2db456c)
+Replacing: (${uuid:group_setting_id:55}) with (a7d0330f-16f6-4bd5-a3e7-d950f08982dd)
+Replacing: (${uuid:group_setting_id:1030}) with (2b328e6e-6b6d-4172-bfda-95899a43ef91)
+Replacing: (${uuid:group_setting_id:47}) with (a758e32d-7e7d-4e73-b83e-69dc542b7af0)
+Replacing: (${uuid:group_setting_id:1010}) with (9ecae7b8-558b-49e6-880e-e66f537a9287)
+Replacing: (${uuid:group_setting_id:1025}) with (676ac84b-87d2-4ef0-b65f-9dbca7c6a652)
+Replacing: (${uuid:group_setting_id:2005}) with (47bea02c-c78e-492c-8f8a-89e86c80db4f)
+Replacing: (${uuid:group_setting_id:1033}) with (aefd02fc-71fd-4cdd-b9ed-863474e5409e)
+Replacing: (${uuid:group_setting_id:35}) with (01e9700c-035e-49e4-b1ef-709a11bd4b91)
+Replacing: (${uuid:group_setting_id:46}) with (a06e0990-0cfb-4e30-926a-91fe1dd684cb)
+Replacing: (${uuid:group_setting_id:1012}) with (92428fa7-f0e9-4e37-bac7-bb52260557d7)
+Replacing: (${uuid:group_setting_id:6}) with (edf5164d-a4fe-4b42-8c54-40e883944911)
+Replacing: (${uuid:group_setting_id:17}) with (01777096-6850-489b-a6f8-b6528b76666b)
+Replacing: (${uuid:group_setting_id:1031}) with (a0f3c995-6132-438d-8020-d84a228e51e1)
+Replacing: (${uuid:group_setting_id:59}) with (8ebd2f10-546a-4048-b3af-9655c1f41781)
+Replacing: (${uuid:group_setting_id:3}) with (bce41cae-c5f3-4ec4-ba64-019c40c2db41)
+Replacing: (${uuid:group_setting_id:16}) with (7bfd1a0d-6cde-40d7-8a17-ed6dd6978d0b)
+Replacing: (${uuid:group_setting_id:52}) with (ba149f9a-b193-4841-907e-551b88f52c8c)
+Replacing: (${uuid:group_setting_id:1029}) with (dc0fbe24-a8a4-490f-b9a9-5aeeddca37be)
+Replacing: (${uuid:group_setting_id:61}) with (7c7dd685-0f4b-4d34-abf5-9eaeaf043b0b)
+Replacing: (${uuid:group_setting_id:41}) with (36a94054-0cf9-4767-9da6-cf42bc98da60)
+Replacing: (${uuid:group_setting_id:5}) with (481cde37-eee1-4da1-94f9-740c87982851)
+Replacing: (${uuid:group_setting_id:12}) with (f5a4959a-ef21-4417-8ab5-91b7594ca6b8)
+Replacing: (${uuid:group_setting_id:1026}) with (eab6bdf7-b9e9-494a-878f-99729f9226bb)
+Replacing: (${uuid:group_setting_id:1004}) with (114f8fe5-9ccb-4f3a-85f6-25512bd8a812)
+Replacing: (${uuid:group_setting_id:1017}) with (9e100280-0c1d-4066-91f5-7bdf83b57254)
+Replacing: (${uuid:group_setting_id:25}) with (63504c6f-6725-4a11-86c4-464c0f17df54)
+Replacing: (${uuid:group_setting_id:62}) with (a9e10e9d-2aad-4451-960b-60ec038379c4)
+Replacing: (${uuid:group_setting_id:1002}) with (a6427b70-68d3-46f2-b28a-9d472279a6a3)
+Replacing: (${uuid:group_setting_id:48}) with (165a077e-3a42-4156-9b2c-0af4e48a3c02)
+Replacing: (${uuid:group_setting_id:23}) with (21f78ae1-5152-45c7-b8b7-8b5d0e7897d1)
+Replacing: (${uuid:group_id:2}) with (fb284f5b-6651-4dbf-89db-7513dacd160f)
+Replacing: (${uuid:group_setting_id:32}) with (75285f04-be28-4499-b452-22a0291b7211)
+Replacing: (${uuid:group_setting_id:54}) with (b5bd6492-8603-4c8f-88a1-279a1b5f41af)
+Replacing: (${uuid:group_setting_id:57}) with (646ac35e-c174-439d-acd1-7f319bedb5e5)
+Replacing: (${uuid:group_setting_id:1006}) with (9feee2ff-d669-4ad1-83ca-7e461e479d9c)
+Replacing: (${uuid:group_setting_id:1023}) with (6516318d-9d80-4ffe-89ea-be22ac0bd736)
+Replacing: (${uuid:group_setting_id:9}) with (6fd71fb4-adf2-43c7-9b74-e5a0d63e78ae)
+Replacing: (${uuid:group_setting_id:1007}) with (3a56916a-4da3-4509-8a75-71a7308c3ac6)
+Replacing: (${uuid:group_setting_id:1020}) with (fb4d183d-789b-49fc-930b-a8e7ce621fb1)
+Replacing: (${uuid:group_setting_id:19}) with (f765b551-2117-481c-a336-3d606ca8f7f6)
+Replacing: (${uuid:group_setting_id:13}) with (ea50f327-ca9e-4726-bdb8-38192632336b)
+Replacing: (${uuid:group_setting_id:34}) with (a0fd05ff-9ffb-410c-9a2e-dd55a18a4f54)
+Replacing: (${uuid:group_setting_id:40}) with (80865c53-9956-4d61-884d-e58641daaa33)
+Replacing: (${uuid:group_setting_id:15}) with (81cee590-8e24-4803-b337-613c0295268b)
+Replacing: (${uuid:group_setting_id:29}) with (186077b7-1c3f-435d-8793-f4ad4a5f5bd2)
+Replacing: (${uuid:group_setting_id:18}) with (15935875-5d96-410f-b88b-fb92738c5db1)
+Replacing: (${uuid:zone_id:1}) with (276c3951-0881-4967-aa07-820bc00e721c)
+Replacing: (${uuid:group_setting_id:1055}) with (02d25657-2c0c-4dbe-a602-c8b99b44c9a3)
+Replacing: (${uuid:group_setting_id:33}) with (8897cba7-19f3-4cd4-b385-656b43477e41)
+Replacing: (${uuid:group_setting_id:2}) with (6f4414a6-07e9-4fc8-9b86-16dd3928ba00)
+Replacing: (${uuid:group_setting_id:1003}) with (9168f6ac-218c-44f7-8016-33281f9daa2c)
+Replacing: (${uuid:group_setting_id:1009}) with (8d6ea206-8f04-42b4-aa4e-39cd36a607ec)
+Replacing: (${uuid:group_setting_id:1027}) with (29987732-3336-425b-a972-bbfaeae49f3a)
+Replacing: (${uuid:group_setting_id:2004}) with (43f7a9df-66de-4c48-a17a-083eb0eb5d58)
+Replacing: (${uuid:group_setting_id:1019}) with (27c3239d-89f7-42f7-8343-c3cd8f9e141a)
+Replacing: (${uuid:group_setting_id:1015}) with (8117fd42-14a4-4a62-a4e3-1acaaeac796b)
+Replacing: (${uuid:group_setting_id:31}) with (8ea3fe57-9231-4ef1-a00b-6cf5a0ecc81f)
+Replacing: (${uuid:group_setting_id:1011}) with (a488b9f4-7965-4a87-9c09-34d0e1f72b5c)
+Replacing: (${uuid:group_setting_id:1001}) with (fc714c5e-ccd4-4d97-ab54-aa410d57b495)
+Replacing: (${uuid:group_setting_id:4}) with (7b59c80f-28b3-4e6a-bf40-bf1ee93c70b8)
+Replacing: (${uuid:group_setting_id:44}) with (39ed2a44-d5ae-4299-85f3-5a8d1a551d10)
+Replacing: (${uuid:group_setting_id:21}) with (94d68a8d-a3fe-465c-b37c-e872b23aa287)
+Replacing: (${uuid:group_setting_id:27}) with (265c4cca-d374-44c4-bab8-20886dd5097c)
+Replacing: (${uuid:group_setting_id:8}) with (7e44228a-fc88-431c-8709-9dd07419a440)
+Replacing: (${uuid:group_setting_id:1008}) with (9044c4d5-ae33-48b1-b86e-46ebb9c1f1c4)
+Replacing: (${uuid:group_setting_id:30}) with (eb2eaeb7-a821-40a7-96df-628eaa6a0d2e)
+Replacing: (${uuid:group_setting_id:65}) with (77d363e8-b5b4-43cf-9f44-6a114b1c1e43)
+Replacing: (${uuid:group_setting_id:28}) with (5ce20061-74c3-4156-ae91-54adf538ae17)
+Replacing: (${uuid:group_setting_id:1028}) with (b533977c-c895-46ff-965b-e90e40b156a9)
+Replacing: (${uuid:group_setting_id:37}) with (c439858b-8e5a-4150-b0b6-21a69be46f43)
+Replacing: (${uuid:user_id:2}) with (8250f517-a897-437f-97a4-0e382e27b8ab)
+Replacing: (${uuid:group_setting_id:1014}) with (f74fa126-ed20-4418-a436-e8cedf11fe80)
+2024-07-08 12:02:08,386 [INFO] root: Complete
+Replacing: (${uuid:group_setting_id:49}) with (003085e5-0fe6-4bb6-854e-c04611011b09)
+Replacing: (${uuid:group_setting_id:43}) with (03359239-edf3-4cdb-9c8a-d0052b028446)
+Replacing: (${uuid:group_setting_id:58}) with (8245a43b-869b-4ee2-a8a5-9f0624cf0600)
+Replacing: (${uuid:group_setting_id:1032}) with (0c5e41d3-969e-4168-bfa2-0f3456120851)
+Replacing: (${uuid:group_setting_id:1016}) with (33ce9748-fe9d-4867-8017-29d7142df2e2)
+Replacing: (${uuid:group_setting_id:1018}) with (156b0b50-5e77-4df7-8900-84dcd88dab97)
+Replacing: (${uuid:group_setting_id:1024}) with (1b967aaa-ad70-4ce2-b930-805a8df0dc21)
+Replacing: (${uuid:group_setting_id:56}) with (cb23afa9-1034-4c6e-9549-c1417a8d6729)
+Replacing: (${uuid:group_setting_id:38}) with (eb9e5231-5de9-4750-9483-6d2a996ade62)
+Replacing: (${uuid:group_setting_id:2006}) with (8e8c616f-faa8-4ead-9a8a-17c986ab66ff)
+Replacing: (${uuid:group_setting_id:60}) with (3580c3bd-bdd5-4118-8ce0-17677d08ca1c)
+Replacing: (${uuid:group_setting_id:63}) with (8872aa2f-4d68-4173-bd91-24128fe69db1)
+Replacing: (${uuid:group_setting_id:1060}) with (c086f3a9-66e1-49b1-93a1-081cdaaa7b55)
+Replacing: (${uuid:group_setting_id:26}) with (31bef70f-c7f0-4314-b408-42a44abb2161)
+Replacing: (${datetime:utcnow}) with (2024-07-08 12:02:08.234772)
+time="2024-07-08T18:02:08+06:00" level=warning msg="/opt/kasm/1.15.0/docker/docker-compose.yaml: `version` is obsolete"
+ Container kasm_db  Stopping
+ Container kasm_db  Stopped
+Database Initialization Complete
+Not seeding default Workspaces Images.
+Setting Seed file as /opt/kasm/1.15.0/conf/database/seed_data/default_agents.yaml
+time="2024-07-08T18:02:10+06:00" level=warning msg="/opt/kasm/1.15.0/docker/docker-compose.yaml: `version` is obsolete"
+ Container kasm_db  Stopping
+ Container kasm_db  Stopped
+time="2024-07-08T18:02:10+06:00" level=warning msg="/opt/kasm/1.15.0/docker/docker-compose.yaml: `version` is obsolete"
+ Container kasm_db  Creating
+ Container kasm_db  Created
+ Container kasm_db  Starting
+ Container kasm_db  Started
+ Container kasm_db  Waiting
+ Container kasm_db  Healthy
+time="2024-07-08T18:02:41+06:00" level=warning msg="/opt/kasm/1.15.0/docker/.conf/docker-compose-api.yaml: `version` is obsolete"
+2024-07-08 12:02:42,197 [INFO] root: Performing Database Connectivity Test
+2024-07-08 12:02:42,325 [INFO] root: Complete
+time="2024-07-08T18:02:42+06:00" level=warning msg="/opt/kasm/1.15.0/docker/docker-compose.yaml: `version` is obsolete"
+ Container kasm_db  Stopping
+ Container kasm_db  Stopped
+Database Initialization Complete
+./install.sh: line 1376: activate_kasm: command not found
+An error has occurred please review the log at ./kasm_install_1720440020.log
